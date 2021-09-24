@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.5.5.0.RKHCNXM/miui_ALIOTH_V12.5.5.0.RKHCNXM_c5a30ac282_11.0.zip
+  ROM_URL: https://dl14.ztems.com/zxmdmp/download.do?doWhat=getUp&filename=firmwarepackages/NJ/ZTE/ZTE%20A2022/127745/GEN_ZTE_P875A02V1.0.0B25_MR_TO_GEN_ZTE_P875A02V1.0.1B05_MR2.zip
   TZ: Asia/Shanghai
 
 jobs:
